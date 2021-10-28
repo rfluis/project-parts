@@ -1,4 +1,4 @@
-#C/C++ tokenizer
+# C/C++ tokenizer
 
 Handmade C/C++ tokenizer (Not done using lex or similar)
 Only works on memory with STL containers.
